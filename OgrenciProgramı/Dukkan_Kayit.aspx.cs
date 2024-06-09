@@ -32,6 +32,7 @@ namespace OgrenciProgramı
             baglan.dukkan.Add(tablo);
             baglan.SaveChanges();
             doldur();
+            //açıklama
             Response.Write("Kayıt Başarılı");
 
         }
